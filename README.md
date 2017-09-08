@@ -8,7 +8,7 @@ pom.xml:
 
     <repositories>
         <repository>
-            <id>hengyunabc-maven-repo</id>
+            <id>maven-repo</id>
             <url>https://raw.githubusercontent.com/xwc1125/maven-repo/snapshot/</url>
         </repository>
     </repositories>
