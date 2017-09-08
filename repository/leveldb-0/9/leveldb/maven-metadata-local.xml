@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>leveldb-0.9</groupId>
+  <artifactId>leveldb</artifactId>
+  <versioning>
+    <release>0.9</release>
+    <versions>
+      <version>0.9</version>
+    </versions>
+    <lastUpdated>20170907055520</lastUpdated>
+  </versioning>
+</metadata>

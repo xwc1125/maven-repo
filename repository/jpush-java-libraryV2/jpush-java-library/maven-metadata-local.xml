@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>jpush-java-libraryV2</groupId>
+  <artifactId>jpush-java-library</artifactId>
+  <versioning>
+    <release>V2</release>
+    <versions>
+      <version>V2</version>
+    </versions>
+    <lastUpdated>20170907055042</lastUpdated>
+  </versioning>
+</metadata>

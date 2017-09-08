@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>concurrent-locks-1.0.0</groupId>
+  <artifactId>concurrent-locks</artifactId>
+  <versioning>
+    <release>1.0.0</release>
+    <versions>
+      <version>1.0.0</version>
+    </versions>
+    <lastUpdated>20170907034849</lastUpdated>
+  </versioning>
+</metadata>
