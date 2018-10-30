@@ -21,7 +21,7 @@ pom.xml:
 		
 		or
 		
-		mvn install:install-file -Dfile=/Downloads/libs/slf4j-api-1.6.6.jar -DgroupId=com.xwc1125.log -DartifactId=slf4j-api -Dversion=1.6.6 -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=/Users/xwc1125/Workspaces/Git/xwc1125/maven-repo  -DcreateChecksum=true
+		mvn install:install-file -Dfile=/Downloads/libs/slf4j-api-1.6.6.jar -DgroupId=com.xwc1125.log -DartifactId=slf4j-api -Dversion=1.6.6 -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=/Users/xwc1125/Workspaces/Git/xwc1125/maven-repo/repository -DcreateChecksum=true
 		
 
 ## Update the maven-repo
